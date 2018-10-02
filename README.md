@@ -1,6 +1,3 @@
-# the homepage.
+# Welcome.
 
-Insert text here.
-
-
-<a href="https://google.com" class="btn">Google</a>
+Seun Williams is the GOAT.
